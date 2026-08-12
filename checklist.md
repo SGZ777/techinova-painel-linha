@@ -1,0 +1,4 @@
+- Erros de lógica
+- Segurança
+- Legibilidade do código
+- Funcionalidade bem aplicada
